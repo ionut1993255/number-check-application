@@ -6,7 +6,7 @@ Welcome to my "Number Check" application !!!
 4. When the number is odd the color of the number will be blue and will be displayed a message bellow that says that number is odd. 
 5. When we press the button "Reset" will be displayed the paragrapf "?" with the original color and a message bellow that says to press the button "Check".
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://number-check-application.netlify.app/
 
